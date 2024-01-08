@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="timePicker" type="id" />
+    <item name="toggleButton" type="id" />
+    <item name="cdMenu1" type="id" />
+    <item name="cdMenu2" type="id" />
+    <item name="cdMenu3" type="id" />
+    <item name="cdMenu4" type="id" />
+    <item name="cdMenu5" type="id" />
+    <item name="cdMenu6" type="id" />
+    <item name="cdMenu7" type="id" />
+    <item name="cdMenu8" type="id" />
+    <item name="cdMenu9" type="id" />
+</resources>

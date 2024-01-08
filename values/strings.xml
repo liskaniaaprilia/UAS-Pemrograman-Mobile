@@ -1,0 +1,246 @@
+<resources>
+    <string name="app_name">Tyrell</string>
+    <string name="apakabar001">Bagaimana kabar anda hari ini !</string>
+    <string name="Hallo">Tinggal dimana sekarang!</string>
+    <string name="button_label_toast">Toast</string>
+    <string name="button_label_count">Count</string>
+    <string name="count_initial_value">0</string>
+    <string name="toast_message">Bilangan Fibonacci</string>
+    <string name="button_label_finish">Back</string>
+    <string name="enter_fibonacci_limit">Masukan limit angka</string>
+    <string name="maximum_fibonacci">Enter Limit</string>
+
+
+    <string name="article_title">Kasus Sianida</string>
+    <string name="article_subtitle">ICE COLD!</string>
+
+    <string name="article_text">In a vault deep inside Abbey Road Studios in London — protected by an unmarked, triple-locked, police-alarmed door — are something like 400 hours of unreleased Beatles recordings, starting from June 2, 1962 and ending with the very last tracks recorded for the Let It Be album. The best of the best were released by Apple Records in the form of the 3-volume Anthology series. For more information, see the Beatles Time Capsule at www.rockument.com. \n\n This volume starts with the first new Beatle song, “Free as a Bird” (based on a John Lennon demo, found only on The Lost Lennon Tapes Vol. 28, and covers the very earliest historical recordings, outtakes from the first albums, and live recordings from early concerts and BBC Radio sessions. \n\n
+
+Highlights include: \n\n
+
+Cry for a Shadow – Many a Beatle fanatic started down the outtake road, like I did, with a first listen to this song. Originally titled “Beatle Bop” and recorded in a single session that yielded four songs (the other three featured Tony Sheridan with the Beatles as a backing band), “Cry for a Shadow” is an instrumental written by Lennon and Harrison, which makes it unique to this day. John Lennon plays rhythm guitar, George Harrison plays lead guitar, Paul McCartney plays bass, and Pete Best plays drums. The sessions were produced by Bert Kaempfert in Hamburg, Germany, during the Beatles’ second visit from April through July of 1961 to play in the Reeperbahn-section clubs. \n\n
+
+My Bonnie and Ain’t She Sweet — At the same session, the Beatles played on “My Bonnie” (the first-ever single with Beatles playing), as the backing band for English singer Tony Sheridan, originally a member of the Jets. The popularity of this single in Liverpool brought the Beatles to the attention of Brian Epstein, who worked in the NEMS record store and tried to meet demand for the disc. John Lennon then sings a fine “Ain’t She Sweet” (his first-ever released vocal). \n\n
+
+Searchin — A Jerry Leiber – Mike Stoller comedy song that was a hit for the Coasters in 1957, and a popular live favorite of the Beatles. The Coasters also had a hit with “Besame Mucho” and the Beatles covered that song as well. Ringo Starr had by now replaced Pete Best on drums. The high falsetto is George, who also plays a hesitant lead guitar. This is from their first audition for Decca Records in London on Jan 1., 1962, live in the studio. The Grateful Dead would later cover “Searchin” with a similar arrangement, Pigpen doing the Paul vocals. A live version is available on outtake records featuring the Dead joined by the Beach Boys! \n\n
+
+Love Me Do — An early version of the song, played a bit slower and with more of a blues feeling, and a cool bossa-nova beat in middle. Paul had to sing while John played harmonica — a first for the group. Pete Best played drums on this version. \n\n
+
+She Loves You – Till There Was You – Twist and Shout — Live at the Princess Wales Theatre by Leicester Square in London, attended by the Queen. “Till There Was You” (by Meredith Wilson) is from the musical The Music Man and a hit for Peggy Lee in 1961. Before playing it, Paul said it was recorded by his favorite American group, “Sophie Tucker” (which got some laughs). At the end, John tells the people in the cheaper seats to clap their hands, and the rest to “rattle your jewelry” and then announces “Twist and Shout” (a song by Bert Russell and Phil Medley that was first recorded in 1962 by the Isley Brothers). A film of the performance shows the Queen smiling at John’s remark. \n\n
+
+Leave My Kitten Alone — One of the lost Beatle songs recorded during the “Beatles For Sale” sessions but never released. This song, written by Little Willie John, Titus Turner, and James McDougal, was a 1959 RB hit for Little Willie John and covered by Johnny Preston before the Beatles tried it and shelved it. A reference to a “big fat bulldog” may have influenced John’s “Hey Bulldog” (Yellow Submarine album), which is a similar rocker. \n\n
+
+One After 909 — A song recorded for the ¨C11C album was actually worked on way back in the beginning, six years earlier. This take shows how they did it much more slowly, with an RB feel to it.</string>
+
+    <string name="button_main">Send</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="text_header">Message Received</string>
+    <string name="button_second">Reply</string>
+    <string name="editText_second">Enter Your Reply Here</string>
+    <string name="text_header_reply">Reply Received</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="one_piece">"One Piece" bermula dengan kisah seorang anak bernama Monkey D. Luffy yang secara tidak sengaja memakan Buah Iblis Gum-Gum, yang memberikannya kekuatan karet tapi pada gilirannya membuatnya tidak bisa berenang. Luffy bermimpi untuk menjadi Raja Bajak Laut dan menemukan harta legendaris, "One Piece," yang ditinggalkan oleh Raja Bajak Laut legendaris, Gol D. Roger. \n\n
+
+Luffy berangkat dalam perjalanan untuk mencapai impian tersebut dan membentuk kru bajak lautnya sendiri. Setiap anggota kru memiliki tujuan pribadi mereka sendiri, dan bersama-sama mereka berlayar melintasi Grand Line, lautan berbahaya yang dikenal sebagai "laut terhebat." Mereka menghadapi berbagai tantangan, termasuk bertarung melawan bajak laut, angkatan laut, dan kelompok-kelompok berbahaya lainnya. \n\n
+
+Cerita "One Piece" terus berkembang dengan penuh petualangan, misteri, dan konflik. Luffy dan kru-nya harus menghadapi berbagai musuh kuat, termasuk Yonko (empat kaisar bajak laut terkuat), Shichibukai (tujuh bajak laut yang bekerja untuk Pemerintah Dunia), dan ancaman lainnya seperti Revolusioner dan Admiral Angkatan Laut. \n\n
+
+Pada saat yang sama, "One Piece" juga menyajikan dunia yang kaya dengan sejarah, mitologi, dan karakter yang mendalam. Selain itu, misteri seputar "One Piece" dan kepulauan terakhir di Grand Line, Raftel, semakin mempertegas daya tariknya. \n\n
+
+</string>
+
+    <string name="kimetsu">Kimetsu no Yaiba berkisah tentang Tanjiro Kamado, seorang anak lelaki yang hidup damai bersama keluarganya di desa pegunungan. Namun, hidupnya berubah drastis ketika keluarganya diserang oleh iblis dan hanya dia dan adik perempuannya, Nezuko, yang selamat. Sayangnya, Nezuko sendiri berubah menjadi iblis. \n\n
+
+Dengan tekad untuk menyelamatkan adiknya dan membalas dendam, Tanjiro bergabung dengan Korps Pembasmi Iblis, sebuah organisasi yang bertujuan untuk melindungi umat manusia dari serangan iblis. Selama perjalanannya, Tanjiro bertemu dengan berbagai teman sejawat seperti Nezuko, Zenitsu Agatsuma, dan Inosuke Hashibira, masing-masing dengan latar belakang dan kemampuan unik mereka sendiri. \n\n
+
+        Para pembasmi iblis menjalani berbagai misi untuk membersihkan daerah-daerah dari ancaman iblis. Selama perjalanan mereka, mereka menemui berbagai karakter, baik yang mendukung maupun musuh. Sementara itu, Tanjiro terus mencari cara untuk mengembalikan adiknya ke manusia dan mengungkap misteri di balik kejadian tragis yang menimpa keluarganya. \n\n
+
+    Sebagai anggota Korps Pembasmi Iblis, Tanjiro dan teman-temannya menghadapi berbagai iblis yang bervariasi tingkat kekuatan dan kekejaman mereka. Mereka melibatkan pertarungan sengit, mengasah keterampilan bertarung mereka, dan menggunakan pedang yang dilengkapi dengan "Nichirin Blades" yang dapat melukai iblis.\n\n
+    </string>
+
+    <string name="jujutsu">Cerita dimulai dengan seorang siswa SMA bernama Yuji Itadori, yang memiliki kehidupan yang agak biasa. Namun, segalanya berubah ketika Yuji tanpa sengaja menemukan dan membuka sebuah benda terkunci di sekolahnya yang ternyata berisi salah satu dari dua jari kutukan yang sangat kuat. Jari tersebut dijaga oleh klub ilmu gaib di sekolahnya. Sebagai reaksi terhadap kejadian ini, kekuatan kutukan muncul dan mengancam kehidupan Yuji. \n\n
+
+Ketika makhluk-makhluk kutukan menyerang, Yuji bertemu dengan Megumi Fushiguro, seorang siswa yang juga memiliki keterlibatan dengan ilmu gaib. Bersama-sama, mereka berdua berusaha untuk menyelamatkan teman sekelas Yuji yang terperangkap dalam kejadian tersebut. Sayangnya, situasinya semakin rumit ketika sekolah menyadari potensi kekuatan kutukan yang sangat berbahaya. \n\n
+
+Yuji dan Megumi kemudian terlibat dalam dunia ilmu gaib yang penuh dengan makhluk-makhluk kuat, roh jahat, dan jurus-jurus jujutsu yang mematikan. Mereka bergabung dengan Sekolah Jujutsu Tokyo, sebuah institusi yang berkomitmen untuk melawan kegelapan dan kekuatan kutukan. Di sana, mereka bertemu dengan Satoru Gojo, seorang guru jujutsu yang sangat kuat dan berperan penting dalam melatih mereka. \n\n
+
+</string>
+
+    <string name="attack">Dunia "Attack on Titan" berada di sebuah tempat di mana umat manusia hidup di dalam tiga lapis tembok besar yang dibangun untuk melindungi mereka dari serangan makhluk humanoid raksasa yang dikenal sebagai Titan. Tembok tersebut adalah Maria, Rose, dan Sina. Hidup damai mereka hancur ketika sebuah Titan Kolosal, yang jauh lebih tinggi dari tembok Maria, muncul dan membuat tembok tersebut runtuh. Serangan tersebut membuka pintu gerbang bagi Titan-titan kecil untuk masuk dan menyerang umat manusia. \n\n
+
+Cerita dimulai dengan Eren Yeager, saudara perempuan Mikasa Ackerman, dan teman mereka, Armin Arlert, yang menyaksikan kehancuran tembok mereka dan kehilangan ibu mereka dalam serangan Titan. Berusaha membalas dendam dan membela umat manusia, Eren bersumpah untuk membasmi Titan dan bergabung dengan Tentara Pengintai, sebuah kelompok militer khusus yang bertugas melawan Titan. \n\n
+
+Seiring berjalannya waktu, Eren dan rekan-rekannya mengungkap misteri di balik keberadaan Titan, tembok, dan sejarah manusia. Mereka menemukan bahwa ada konspirasi besar yang melibatkan kekuatan-kekuatan gelap dan rahasia mengenai asal-usul Titan dan kehidupan manusia. Pertempuran sengit terjadi di berbagai front, termasuk konflik internal di antara umat manusia sendiri. \n\n
+
+</string>
+
+    <string name="hunter">Dunia "Hunter x Hunter" berada di tempat di mana para Hunter, individu yang memiliki kemampuan dan keahlian luar biasa, dihormati dan dicari. Seorang anak laki-laki berusia 12 tahun bernama Gon Freecss bermimpi menjadi Hunter untuk mencari ayahnya yang menghilang, Ging Freecss, seorang Hunter legendaris. Gon tahu bahwa ayahnya pergi untuk mengejar impian dan petualangan di dunia Hunter. \n\n
+
+Untuk menjadi seorang Hunter, Gon harus mengikuti ujian yang sangat sulit dan berbahaya yang akan menguji kemampuan fisik, mental, dan moralnya. Selama ujian, Gon bertemu dengan teman-teman baru seperti Killua Zoldyck, seorang anak dari keluarga pembunuh bayaran terkenal; Kurapika, seorang remaja yang mencari balas dendam karena keluarganya dibantai oleh Phantom Troupe; dan Leorio Paradinight, seorang calon dokter yang memiliki alasan pribadi untuk menjadi Hunter. \n\n
+
+Setelah berhasil melewati ujian, Gon dan teman-temannya memasuki dunia Hunter yang penuh dengan petualangan, tantangan, dan ancaman. Mereka berusaha mencapai tujuan mereka masing-masing sambil menghadapi berbagai situasi dan musuh yang kuat, termasuk organisasi kriminal seperti Phantom Troupe. \n\n
+
+Seiring berjalannya waktu, Gon dan teman-temannya mengejar impian mereka masing-masing, menghadapi pertarungan sengit, dan mengungkap rahasia di balik dunia Hunter. Mereka juga menghadapi ancaman besar yang melibatkan kekuatan Nen, sebuah sistem energi yang memungkinkan pengguna untuk mengembangkan kemampuan super manusia. \n\n</string>
+
+    <string name="tokyo">Tokyo Revengers mengisahkan tentang Takemichi Hanagaki, seorang pria berusia 26 tahun yang merasa hidupnya telah mencapai titik terendah. Namun, suatu hari, Takemichi tiba-tiba terlibat dalam sebuah insiden yang mengubah hidupnya secara dramatis. Dia tanpa sengaja terlempar kembali ke masa lalu, tepatnya 12 tahun sebelumnya, ketika dia masih remaja. \n\n
+
+Takemichi menyadari bahwa dia memiliki kesempatan untuk mengubah nasibnya dan menyelamatkan orang yang dicintainya. Di masa lalu, dia bertemu kembali dengan teman-teman sekolahnya dan menjadi terlibat dalam dunia kejahatan geng motor. Sebuah geng motor bernama "Tokyo Manji Gang" memainkan peran penting dalam kisah ini. Takemichi menyadari bahwa dia harus mencegah terjadinya suatu kejadian tragis yang melibatkan geng ini agar dapat memperbaiki masa depannya. \n\n
+
+Selama perjalanan waktu ini, Takemichi berusaha memahami dinamika geng, mengatasi konflik internal, dan menghadapi berbagai ancaman. Sementara itu, dia juga berusaha untuk memenangkan hati Naoto, seorang detektif yang membantunya dalam misinya untuk mengubah masa depan. \n\n
+
+"Tokyo Revengers" menampilkan elemen-elemen drama, aksi, dan petualangan, dengan fokus pada tema perubahan takdir dan upaya seseorang untuk mengatasi masa lalu mereka. Seri ini telah mendapatkan popularitas yang besar di kalangan pembaca manga dan penonton anime karena alur cerita yang menarik dan karakter-karakter yang kompleks. \n\n </string>
+
+    <string name="naruto">Cerita dimulai ketika seekor monster rubah ekor sembilan atau disebut Kyuubi menyerang Konoha, sebuah desa shinobi yang terletak di negara Api. Kekacauan terjadi di desa Konoha dan korban banyak berjatuhan. Akhirnya ada seseorang yang berhasil melenyapkan Kyuubi dengan menyegel sebagian chakra Kyuubi itu ke tubuhnya sendiri dan sisanya disegel ke tubuh Naruto, orang yang berhasil menyegel monster rubah ekor sembilan itu dikenal sebagai Yondaime Hokage, Hokage ke-4 atau Minato Namikaze yang tidak lain adalah ayah dari Naruto. Penyegelan itu menggunakan jurus Dewa Kematian sehingga risikonya adalah kematian Hokage ke-4 sendiri.\n\n
+
+        Dua belas tahun kemudian, diceritakan seorang anak bernama Naruto Uzumaki yang sering membuat onar di desa Konoha. Naruto melakukan hal itu karena menginginkan perhatian dari penduduk desa yang menjauhinya karena rubah di tubuhnya atau disebut sebagai wadah monster berekor atau Jinchuuriki. Naruto tidak mengetahui hal itu, karena Hokage ke-3 melarang penduduk desa Konoha menceritakan serangan Kyuubi tersebut. \n\n
+
+        Naruto kemudian ditipu oleh Mizuki, seorang pengkhianat Konoha untuk mencuri gulungan rahasia peninggalan Tobirama Senju (Hokage ke-2), Naruto yang polos melakukan hal tersebut dan berhasil mencuri serta mempelajari jurus seribu bayangan. Setelah tahu bahwa dia dimanfaatkan, Naruto menolak memberikan gulungan tersebut. Lalu, Mizuki menceritakan serangan Kyuubi yang telah menghancurkan Konoha dan menimbulkan banyak korban berjatuhan, termasuk orang tua Iruka. Iruka adalah guru Naruto di akademi yang mana merupakan orang yang pertama kali mengakui keberadaan Naruto, karena dulu Iruka pernah mengalami hal yang sama yaitu hidup tanpa orang tua, dan selalu diselimuti kesendirian. \n\n
+    </string>
+
+    <string name="doraemon">Kehidupan awal Doraemon tidak begitu baik. Ia adalah sebuah robot gagal yang dilelang kepada sebuah keluarga miskin yang terlilit utang, yang tak lain adalah keluarga keturunan Nobita Nobi. Doraemon pernah menjalani masa-masa berat: Ia hanya menjadi penjaga bayi setelah gagal melewati ujian di akademi robot, kedua telinganya hancur setelah digigit robot tikus, catnya luntur akibat ulahnya sendiri, dan masih banyak kisah sedih yang ia lalui pada tahun pertama sejak kelahirannya. Sampai suatu ketika, keluarganya mengirimkan ia kembali ke masa lalu, kira-kira 250 tahun yang lalu ketika Nobita, leluhur keluarga ini, masih hidup di Tokyo. \n\n
+
+        Doraemon dikirim kembali ke masa kehidupan Nobita oleh cicit Nobita, Sewashi. Ia dikirim untuk memperbaiki kehidupan Nobita agar keturunannya merasakan kehidupan yang lebih baik. Dalam kehidupan aslinya tanpa dibantu Doraemon, Nobita sering gagal dalam pelajaran sekolahnya, gagal dalam pekerjaan, dan mempunyai masalah keuangan; ia hanya berbakat dalam tembak-menembak, bermain karet, dan tidur, kemampuan yang hampir tak berguna di zaman Jepang modern. Doraemon tiba di tahun 1969, pada hari Tahun Baru Jepang. Ia keluar dari laci meja milik Nobita, dan sejak saat itu ia tinggal bersama Nobita, misinya adalah untuk mencegah Nobita menjadi orang gagal. \n\n
+
+    </string>
+
+    <string name="waikiki">Welcome to Waikiki mengisahkan tentang tiga sahabat laki-laki, Kang Dong-gu (diperankan oleh Kim Jung-hyun), Lee Joon-ki (diperankan oleh Lee Yi-kyung), dan Bong Doo-sik (diperankan oleh Son Seung-won), yang memiliki impian untuk menjalankan bisnis penginapan atau guesthouse di Waikiki, sebuah daerah yang terkenal di Seoul. \n\n
+
+Namun, impian mereka menjadi kenyataan dengan sejumlah masalah dan kejadian lucu. Setelah keberuntungan mereka yang sulit, mereka terpaksa berjuang untuk mempertahankan guesthouse mereka, yang kemudian diberi nama "Waikiki Guesthouse." \n\n
+
+Serial ini menawarkan campuran komedi, drama, dan kisah persahabatan. Para karakter utama harus mengatasi berbagai kesulitan dan situasi lucu dalam usaha mereka menjalankan guesthouse. Cerita ini tidak hanya fokus pada perjalanan bisnis mereka, tetapi juga menggambarkan pertumbuhan dan hubungan di antara karakter-karakter utama. \n\n
+
+"Welcome to Waikiki" dikenal karena humor slapstick-nya, situasi kocak, dan chemistry yang kuat antara para pemeran. Serial ini menjadi populer di kalangan penonton karena kesegaran dan keunikan pendekatannya terhadap tema komedi dan persahabatan. \n\n
+    </string>
+
+    <string name="mrqueen">Mr. Queen mengisahkan tentang Jang Bong-hwan (diperankan oleh Choi Jin-hyuk), seorang koki istana yang bekerja di Blue House pada zaman modern. Suatu hari, akibat kejadian misterius, roh Bong-hwan tiba-tiba terperangkap dalam tubuh Ratu Kim So-yong (diperankan oleh Shin Hye-sun) pada era Joseon.\n\n
+
+Ratu Kim So-yong adalah seorang wanita istana yang menikah dengan Raja Cheoljong (diperankan oleh Kim Jung-hyun). Dengan kepribadian modern Bong-hwan yang berkebalikan dengan norma-norma istana, drama ini menyajikan konflik dan situasi komedi yang unik. Saat Bong-hwan berjuang untuk beradaptasi dengan hidup dan tugas seorang ratu, dia secara tidak sengaja terlibat dalam intrik politik dan romansa di istana Joseon.\n\n
+
+Dalam tubuh Ratu Kim So-yong, Bong-hwan bertemu dengan Raja Cheoljong, dan hubungan aneh mereka berkembang seiring waktu. Sementara itu, Bong-hwan juga harus menghadapi dinamika politik dan intrik di istana, menjaga rahasia identitasnya, dan mencari cara untuk kembali ke masa modernnya.\n\n
+
+"Mr. Queen" dikenal karena pendekatan komedinya yang segar, campuran elemen sejarah dan fantasi, serta kehadiran unsur-unsur romantis. Drama ini berhasil memenangkan hati penonton dengan plotnya yang unik, karakter-karakter yang menarik, dan performa akting yang memukau dari para pemainnya.\n\n
+
+</string>
+
+    <string name="again">"18 Again" bercerita tentang Hong Dae-young (diperankan oleh Yoon Sang-hyun), seorang pria berusia 37 tahun yang menghadapi tekanan hidup dan memiliki banyak penyesalan terhadap pilihannya di masa lalu. Dalam situasi sulitnya, ia tiba-tiba mendapatkan kesempatan untuk mengubah hidupnya saat terbangun dan menemukan bahwa dirinya telah kembali ke usia 18 tahun.\n\n
+
+Ketika Dae-young kembali ke masa muda, ia berada di tubuh seorang siswa sekolah menengah bernama Go Woo-young (diperankan oleh Lee Do-hyun). Kini memiliki kesempatan kedua untuk hidup, Dae-young memutuskan untuk mengambil kendali atas hidupnya dan membuat perbedaan dari keputusan-keputusan yang pernah dia sesali.\n\n
+
+Sementara berada di tubuh anak remaja, Dae-young menyadari nilai-nilai hidup yang sebenarnya dan mencoba memperbaiki hubungannya dengan keluarganya, terutama dengan istrinya Jung Da-jung (diperankan oleh Kim Ha-neul) dan dua anaknya. Dia juga berusaha meraih impian-impian yang pernah terlupakan dan membangun kembali hubungan dengan teman-teman lamanya.\n\n
+
+"18 Again" menggabungkan unsur komedi, drama, dan fantasy dalam ceritanya. Drama ini tidak hanya memberikan hiburan, tetapi juga menyentuh tema-tema universal seperti keluarga, cinta, dan penerimaan diri. Dae-young mengalami pertumbuhan karakter yang signifikan saat mencoba memahami kembali arti kehidupan dan menciptakan kembali hubungan yang terputus.\n\n
+    </string>
+
+    <string name="thegood">Kisah drama The Good Bad Mother berpusat tentang hubungan ibu dan anak, yaitu Jin Young-soon (Ra Mi-ran) dengan Choi Kang-ho (Lee Do-hyun). Young-soon merupakan seorang ibu tunggal yang sehari-hari bekerja mengurus peternakan babi. Young-soon sudah mengasuh Kang-ho seorang diri sejak masih kecil dan membuat dirinya punya gaya didikan yang berbeda.\n\n
+
+Awalnya, Young-soon tidak ingin anaknya tumbuh dewasa menjadi seseorang yang tidak berdaya dan mudah menyerah. Ia lebih memilih untuk menjadi ibu yang buruk dengan terus bersikap keras terhadap Kang-ho agar tumbuh menjadi anak yang disiplin dan kuat. Berkat didikan disiplin tanpa ampun dari Young-soon, Kang-ho bisa tumbuh menjadi orang dewasa yang sukses. Ia jadi jaksa ternama dengan kepribadian dingin yang ditakuti banyak orang. Kang-ho juga memilih menjauh dari ibunya agar bisa mengejar karier sekaligus menutupi salah satu rahasia besar yang selama ini dia simpan. Hingga suatu hari, Kang-ho mengalami kecelakaan. Ia terluka parah dan mengalami hilang ingatan. \n\n
+
+        Tragedi itu kemudian mengubah perilaku Kang-ho. Ia yang semula dikenal begitu dingin justru kembali menjadi seperti anak kecil. Ia pun memutuskan untuk kembali ke kampung halaman dan tinggal bersama ibunya. Demi mengembalikan Kang-ho seperti dulu, Young-soon kembali menjadi seorang ibu yang buruk. \n\n
+
+/</string>
+
+    <string name="doctorcha">Drama ini menceritakan kisah Cha Jeong-suk (Uhm Jung-hwa), seorang ibu rumah tangga berusia 47 tahun yang memutuskan untuk kembali ke dunia kedokteran. Cha Jeong-suk dulunya adalah seorang dokter bedah yang berbakat, tetapi ia terpaksa meninggalkan kariernya untuk menikah dengan Seo In-ho (Kim Byung-chul), seorang kepala ahli bedah di rumah sakit universitas. Setelah 20 tahun menjadi ibu rumah tangga, Cha Jeong-suk merasa bosan dan tidak puas dengan hidupnya. Ia ingin kembali mengejar mimpinya untuk menjadi seorang dokter. Dengan dukungan dari keluarganya, Cha Jeong-suk mulai mengikuti kursus residen medis dari awal.\n\n
+
+Cha Jeong-suk harus menghadapi berbagai tantangan dalam perjalanannya untuk kembali ke dunia kedokteran. Ia harus menyesuaikan diri dengan kehidupan sebagai seorang residen, bersaing dengan para residen muda, dan menghadapi berbagai tekanan dari keluarga dan lingkungannya. Selain itu, Cha Jeong-suk juga harus menghadapi masalah dalam pernikahannya. Ia mengetahui bahwa Seo In-ho telah berselingkuh dengan seorang dokter muda yang bernama Kang Ye-jin (Park Ji-young). \n\n
+
+Cha Jeong-suk akhirnya memutuskan untuk menggugat cerai Seo In-ho. Ia ingin memulai hidup baru sebagai seorang dokter dan sebagai seorang wanita yang mandiri. Drama Doctor Cha mengisahkan tentang perjuangan seorang wanita untuk mengejar mimpinya dan menemukan jati dirinya. Drama ini juga mengangkat tema-tema sosial seperti kesetaraan gender, peran perempuan dalam keluarga, dan perselingkuhan.\n\n
+</string>
+
+    <string name="gaus">Gaus Electronics, drama Korea komedi satir yang tayang pada 2022, menyoroti kehidupan sehari-hari karyawan divisi pemasaran perusahaan elektronik besar bernama Gauns Electronics. Alih-alih menampilkan sisi glamor dunia korporat, drama ini justru menjabarkan realita keseharian para pekerja kantoran dengan segala kelucuan, kekonyolan, dan bahkan keputusasaan mereka.\n\n
+
+Tokoh utama kita adalah Lee Sang-sik (Kwak Dong-yeon), pemuda idealis nan lugu yang baru saja masuk Gauns Electronics dengan semangat menggebu-gebu. Namun, idealismenya segera dihantam realita dunia kerja yang jauh dari bayangannya. Ia ditempatkan di divisi pemasaran yang terkenal karena disfungsi dan minim prestasi. Rekan-rekannya lebih sibuk mengurus urusan pribadi ketimbang pekerjaan, dan atasan mereka, Ko Kang-min (Bae Hyun-sung), seorang pria paruh baya yang pemalas dan sinis.\n\n
+
+Di tengah kekacauan tersebut, Sang-sik bersahabat dengan Baek Ma-tan (Go Bo-gyeol), gadis pekerja keras dan realistis yang menjadi senior sekaligus mentornya. Bersama-sama, mereka berjuang untuk bertahan hidup di divisi pemasaran yang serba kekurangan, baik dari segi sumber daya maupun semangat kerja.\n\n
+
+Selain Sang-sik dan Ma-tan, ada sederet karakter unik dan kocak lainnya yang menghuni Gauns Electronics. Ada Kwak Man-soo (Kim Sang-kyung), kepala divisi pemasaran yang plin-plan dan suka melempar tanggung jawab; Moon Seong-bok (Kang Min-ah), asisten Ko Kang-min yang cerewet dan licik; serta Park Ki-bum (Heo Jeong-min), karyawan veteran yang apatis dan hanya datang untuk gajian.\n\n
+
+</string>
+
+    <string name="bongsoon">Strong Girl Do Bong Soon adalah drama Korea bergenre komedi romantis yang menceritakan kisah Do Bong Soon, seorang wanita mungil namun sangat kuat yang mewarisi kekuatan supernya dari garis keturunan keluarganya. Bong Soon bermimpi menjadi pengembang game, tetapi kekuatannya yang tidak biasa membuat sulit baginya untuk mendapatkan pekerjaan. Namun, hidupnya berubah secara lucu ketika dia bertemu Ahn Min Hyuk, CEO eksentrik dari perusahaan game Ainsoft.\n\n
+
+Min Hyuk, yang telah menerima ancaman anonim, menyaksikan kekuatan super Bong Soon dan mempekerjakannya sebagai pengawalnya. Awalnya ragu-ragu, Bong Soon akhirnya menerima pekerjaan itu, tertarik dengan kesempatan untuk akhirnya menggunakan kekuatannya untuk kebaikan dan menghasilkan uang. Dengan demikian, dimulailah romansa yang penuh dengan kejenakaan lucu, momen mengharukan, dan adegan aksi yang menegangkan. Bong Soon berjuang untuk menyembunyikan rahasianya sambil melindungi Min Hyuk dari bahaya, sambil juga menavigasi perasaannya untuknya.\n\n
+
+Menambah kekacauan komedi adalah cinta lama Bong Soon pada teman masa kecilnya, polisi yang konyol dan baik hati, Guk Doo. Cinta segitiga ini menambahkan lapisan humor dan momen mengharukan lainnya ke dalam cerita. Strong Girl Do Bong Soon lebih dari sekadar komedi ringan. Ini merayakan pemberdayaan perempuan, menampilkan kekuatan dan tekad Bong Soon saat dia mengatasi tantangan dan merangkul identitasnya yang unik. Drama ini juga membahas tema penerimaan diri, mengikuti perjalanan Bong Soon untuk menemukan kepercayaan diri dalam diri dan kemampuannya.
+
+</string>
+
+    <string name="fiery">The Fiery Priest, sebuah drama Korea misteri komedi, membakar layar dengan kisah Kim Hae-il, seorang pastor Katolik pemarah namun berhati emas. Hae-il terkenal karena lebih sering terlihat di warung ramen daripada gereja, bertengkar dengan siapa saja, dan memiliki lidah yang tajam seperti cabai. Dunia Hae-il terbalik ketika seorang pemuda ditemukan tewas di dekat gerejanya. Didorong oleh rasa keadilan dan rasa ingin tahu yang besar, Hae-il bertekad untuk mengungkap kebenaran di balik kematian tragis itu. Namun, penyelidikannya segera menjerumuskannya ke dalam dunia korupsi dan konspirasi yang melibatkan pejabat tinggi dan konglomerat kejam.\n\n
+
+        Bersekutu dengan Goo Joon-tae, seorang jaksa ambisius dengan masa lalu yang kelam, Hae-il menggunakan metode investigasi yang tidak ortodoks: dari adu mulut dengan preman hingga menerobos masuk ke kantor perusahaan. Keduanya menghadapi rintangan demi rintangan, dari ancaman fisik hingga tekanan politik, tapi kemarahan dan tekad Hae-il tidak goyah.\n\n
+
+Sepanjang perjalanannya, Hae-il juga harus menghadapi konflik internal. Terungkap bahwa di balik kemarahannya yang meledak-ledak tersimpan trauma masa lalu yang kelam. Namun, dengan bantuan teman-teman barunya, termasuk seorang suster muda yang idealis dan seorang gangster berhati lembut, Hae-il perlahan belajar membuka diri dan menemukan kedamaian.\n\n
+
+        The Fiery Priest bukan hanya tentang memecahkan misteri, tetapi juga tentang perjalanan seorang pria yang belajar memaafkan dirinya sendiri dan menemukan kekuatannya untuk melawan ketidakadilan. Serial ini penuh dengan humor gelap, aksi menegangkan, dan momen-momen mengharukan yang akan membuat Anda tertawa, berpikir, dan tersentuh.\n\n
+
+</string>
+
+    <string name="doona">Doona dikisahkan sebagai sosok yang ceria dan penuh semangat, namun menyimpan rahasia di balik keputusannya meninggalkan dunia hiburan. Ia pindah ke sebuah rumah kontrakan dekat universitas dan tinggal bersama para mahasiswa. Kehadiran Doona di lingkungan tersebut tentu mengundang perhatian, terutama dari Won-jun (Yang Se-jong), seorang mahasiswa berjiwa tenang dan sederhana.\n\n
+
+Awalnya, Won-jun curiga Doona adalah seorang sasaeng (penggemar obsesif) karena memakai baju Dream Sweet. Namun, mereka perlahan menjadi dekat dan saling jatuh hati. Doona terpesona dengan kepribadian Won-jun yang jujur dan apa adanya, sedangkan Won-jun tertarik dengan aura misterius dan kebaikan Doona.\n\n
+
+Namun, perjalanan cinta mereka tidak berjalan mulus. Doona masih dibayangi masa lalunya sebagai idol dan belum bisa sepenuhnya terbuka kepada Won-jun. Sementara itu, Won-jun menghadapi tekanan dari keluarganya untuk fokus pada studinya dan masa depannya.\n\n
+
+Selain kisah cinta Doona dan Won-jun, drama ini juga menampilkan kehidupan para penghuni rumah kontrakan lainnya. Ada Hyeyoung (Kim Eun-soo), seorang mahasiswa senior yang sedang mempersiapkan ujian negara; Dok Ja (Park Won-ho), seorang mahasiswa pemalu yang jago melukis; dan Joon Young (Ji Woon-tak), seorang mahasiswa atletis yang ceria.\n\n
+</string>
+
+    <string name="goblin">Goblin adalah drama Korea bergenre fantasi romantis yang tayang pada tahun 2016. Drama ini dibintangi oleh Gong Yoo sebagai Kim Shin, seorang goblin yang tidak bisa mati, dan Kim Go-eun sebagai Ji Eun-tak, seorang gadis yang dapat melihat hantu. \n\n
+
+        Kim Shin adalah seorang jenderal perang yang hebat di zaman Goryeo. Ia dibunuh oleh raja muda yang cemburu pada kehebatannya. Kim Shin kemudian dikutuk menjadi goblin yang hidup abadi. Ji Eun-tak adalah seorang gadis SMA yang dapat melihat hantu. Ia sering diganggu oleh hantu-hantu yang tidak dapat menemukan jalan ke akhirat. Suatu hari, Eun-tak bertemu Kim Shin dan mengetahui bahwa ia adalah goblin. \n\n
+
+        Kim Shin menawarkan Eun-tak sebuah permintaan. Jika Eun-tak bisa menikahinya, kutukan Kim Shin akan hilang dan ia bisa mati. Eun-tak pun setuju untuk menikahi Kim Shin, meski ia tidak yakin apakah ia bisa mencintai seorang goblin. Seiring berjalannya waktu, Eun-tak dan Kim Shin mulai jatuh cinta. Namun, hubungan mereka tidak mudah. Kim Shin harus menghadapi berbagai ancaman dari makhluk-makhluk supernatural yang ingin membunuhnya. Eun-tak juga harus menghadapi penolakan dari keluarganya dan orang-orang di sekitarnya. \n\n
+
+        Selain kisah cinta Eun-tak dan Kim Shin, drama ini juga menampilkan kisah-kisah lain yang menarik. Ada kisah tentang malaikat maut Wang Yeo (Lee Dong-wook), yang jatuh cinta pada Eun-tak. Ada juga kisah tentang Sunny (Yoo In-na), pemilik restoran yang sering dikunjungi oleh Eun-tak dan Kim Shin. \n\n
+
+</string>
+    
+    <string name="legendblue">Di masa Dinasti Joseon, seorang bangsawan muda bernama Kim Dam Ryeong (Lee Min-ho) bertemu dengan putri duyung cantik bernama Se Hwa (Jun Ji-hyun). Se Hwa terdampar di daratan dan kehilangan ingatannya. Dam Ryeong merawatnya dan mereka saling jatuh cinta. Namun, kebersamaan mereka tidak berlangsung lama. Se Hwa diculik oleh seorang pemburu duyung dan terpaksa kembali ke laut. Dam Ryeong yang patah hati menciptakan sebuah artefak sebagai pengingat dirinya di masa depan. Ia berharap dapat bertemu kembali dengan Se Hwa dan mencegah nasib tragis mereka terulang.\n\n
+
+        Berabad-abad kemudian, Dam Ryeong bereinkarnasi menjadi Heo Joon Jae, seorang penipu ulung yang cerdas dan tampan. Di Spanyol, Joon Jae menemukan seorang wanita mirip Se Hwa dalam keadaan linglung dan tanpa identitas. Ia membawa wanita tersebut pulang ke Korea dan memberinya nama Shim Cheong. \n\n
+
+        Cheong, meski tidak memiliki ingatan apapun, perlahan menunjukkan perilaku-perilaku aneh yang diyakini Joon Jae berhubungan dengan legenda putri duyung. Ia tidak tahan air, memiliki ingatan yang samar tentang laut, dan memiliki kekuatan supranatural. Joon Jae yang awalnya hanya menganggap Cheong sebagai sumber keuntungan, perlahan mulai jatuh cinta padanya. Ia berusaha melindungi Cheong dari berbagai bahaya dan membantunya menemukan jati dirinya.\n\n
+
+        Hubungan Joon Jae dan Cheong dihadapkan pada berbagai tantangan. Mereka harus menghadapi pemburu duyung yang masih mengincar Cheong, serta rahasia kelam dari kehidupan lampau mereka. Selain itu, Joon Jae juga dihadapkan pada cinta segitiga dengan Kang Seo-hyun (Shin Eun-kyung), seorang mantan detektif yang jatuh hati padanya. Akhir cerita dari The Legend of the Blue Sea penuh dengan kejutan dan emosi. Drama ini menyuguhkan kisah cinta yang tak lekang waktu, pengorbanan, dan pengampunan.\n\n
+
+</string>
+
+    <string name="melancholia">Ji Yoon Soo adalah seorang guru matematika yang bersemangat dan berdedikasi. Dia mengajar di Asung High School, sebuah sekolah swasta bergengsi yang sarat dengan skandal. Yoon Soo percaya bahwa matematika adalah subjek yang indah dan kompleks yang dapat membuka mata siswanya terhadap dunia yang lebih luas. Suatu hari, Yoon Soo bertemu Baek Seung Yoo, seorang murid yang pendiam dan terisolir. Seung Yoo memiliki potensi yang luar biasa di bidang matematika, tetapi dia tidak tertarik untuk belajar. Dia dihantui oleh trauma masa lalu dan kecewa dengan sistem pendidikan yang korup.\n\n
+
+        Yoon Soo melihat potensi Seung Yoo dan bertekad untuk membantunya. Dia mulai mengajarinya matematika dengan cara yang berbeda, dengan fokus pada pemahaman dan eksplorasi. Seiring waktu, Seung Yoo mulai tertarik dengan matematika lagi. Dia mulai belajar dengan giat dan nilainya pun meningkat pesat. Hubungan antara Yoon Soo dan Seung Yoo pun semakin dekat. Mereka saling berbagi minat yang sama terhadap matematika, dan mereka juga saling mendukung dalam menghadapi tantangan hidup. Namun, hubungan mereka terancam oleh tekanan sosial, birokrasi sekolah, dan pengungkapan rahasia mengejutkan dari masa lalu Seung Yoo.\n\n
+
+        Tekanan sosial datang dari orang-orang yang tidak percaya bahwa seorang guru dan murid dapat memiliki hubungan yang lebih dari sekadar profesional. Mereka menganggap hubungan Yoon Soo dan Seung Yoo sebagai cinta terlarang. Birokrasi sekolah juga menjadi ancaman bagi hubungan mereka. Sekolah ingin menutupi rahasia Seung Yoo, dan mereka berusaha untuk memisahkan Yoon Soo dan Seung Yoo.\n\n
+
+        Rahasia mengejutkan yang terungkap dari masa lalu Seung Yoo adalah bahwa dia adalah anak dari seorang profesor matematika yang terkenal. Profesor tersebut telah meninggal dalam kecelakaan, dan Seung Yoo diyakini sebagai penyebabnya.\n\n
+</string>
+
+    <string name="cloy">Crash Landing on You berkisah tentang Yoon Se-ri, seorang CEO muda dan sukses dari Korea Selatan, yang secara dramatis tersapu angin kencang saat paragliding dan mendarat darurat di wilayah Korea Utara. Di sanalah ia bertemu Ri Jeong-hyuk, seorang kapten tampan dan berprinsip di militer Korea Utara. Awalnya, pertemuan mereka diwarnai kecurigaan dan kebingungan. Jeong-hyuk harus melindungi Se-ri agar keberadaannya di Korea Utara tetap rahasia, sementara Se-ri berusaha mencari cara untuk kembali ke Selatan.\n\n
+
+        Seiring berjalannya waktu, rasa ketergantungan tumbuh di antara mereka. Se-ri membantu Jeong-hyuk dan rekan-rekannya mewujudkan impian mereka membuka restoran, sementara Jeong-hyuk melindungi Se-ri dari bahaya dan kesulitan hidup di negeri asing. Perbedaan latar belakang dan ideologi menjadi tantangan bagi hubungan mereka. Namun, cinta mereka tumbuh mekar di tengah kesulitan, membuktikan bahwa bahasa hati tak mengenal batas geografi atau politik.\n\n
+
+        Drama ini tidak hanya menawarkan kisah cinta yang penuh tantangan dan romansa, tetapi juga menyoroti kehidupan masyarakat Korea Utara dengan perspektif yang berbeda. Kita diajak untuk melihat sisi humanis mereka, memahami budaya mereka, dan menyadari bahwa perdamaian adalah harapan bersama.\n\n
+</string>
+
+    <string name="meteor">Meteor Garden berkisah tentang seorang gadis dari keluarga miskin bernama San Chai (Barbie Hsu) yang masuk ke universitas yang dipenuhi anak-anak orang kaya. Universitas tersebut dikuasai oleh empat orang lelaki dari keluarga terpandang yang tergabung dengan kelompok bernama F4 (singkatan dari Flower 4). F4 sering kali menggunakan kekuasaan mereka sebagai anak dari dewan kampus untuk menyingkirkan orang-orang yang mereka anggap mengganggu.\n\n
+
+        San Chai adalah gadis yang kuat dan pemberani, dia membenci tingkah-tingkah yang F4 lakukan di kampus mereka dan dialah satu-satunya orang yang berani menantang F4. Sejak itulah, hidup San Chai berubah karena kehadiran F4 dan San Chai pun terlibat cinta segitiga dengan Hua Zhe Lei yang ia kagumi dan Dao Ming Shi yang menyukai San Chai.\n\n
+</string>
+
+    <string name="scarlet">Drama Scarlet Heart Ryeo dimulai dengan Go Ha Jin, seorang wanita dari abad ke-21, yang secara misterius melakukan perjalanan waktu ke masa lalu saat masa Dinasti Goryeo (941-1392) ketika gerhana matahari total. Dia terbangun dalam tubuh Hae Soo, seorang gadis berusia 16 tahun yang polos dan ceria. Hae Soo awalnya merasa bingung dan tersesat di dunia barunya, tetapi dia segera menyesuaikan diri dengan kehidupannya sebagai anggota keluarga kerajaan. Dia berteman dengan para pangeran, termasuk Wang So, yang awalnya dingin dan misterius, dan Wang Wook, yang lembut dan perhatian.\n\n
+
+        Hae Soo mulai jatuh cinta pada Wang So, meskipun dia tahu dia tidak bisa kembali ke masa depan. Namun, hubungan mereka diwarnai oleh intrik politik dan persaingan antara para pangeran. Wang So adalah pangeran ke-8 yang memiliki luka masa lalu yang membuatnya menjadi orang yang dingin dan kejam. Dia dibenci oleh banyak orang di istana, termasuk Wang Wook, yang menganggapnya sebagai ancaman.\n\n
+
+        Hae Soo berusaha untuk membantu Wang So menyembuhkan luka masa lalunya dan menjadi orang yang lebih baik. Dia juga berusaha untuk mencegah perang saudara yang mengancam akan menghancurkan dinasti. Di tengah semua intrik dan konflik, Hae Soo harus berjuang untuk mempertahankan cintanya pada Wang So. Dia juga harus menghadapi kenyataan bahwa dia mungkin tidak akan pernah bisa kembali ke masa depan.\n\n
+
+        Di akhir cerita, Hae Soo berhasil kembali ke masa depan. Namun, dia tidak bisa melupakan Wang So dan cinta mereka. Dia terus memikirkannya dan berdoa agar mereka bisa bersatu kembali suatu hari nanti. Scarlet Heart Ryeo adalah drama yang kompleks dan emosional yang mengeksplorasi tema-tema cinta, kehilangan, dan perjuangan untuk menemukan jati diri. Drama ini menawarkan kisah cinta yang menyentuh hati dan penuh drama, serta setting sejarah yang indah dan karakter yang kompleks.\n\n
+</string>
+
+    <string name="truebeauty">Drama True Beauty dimulai dengan Im Ju-kyung, seorang siswi SMA yang kurang percaya diri dengan penampilannya. Sejak kecil, Ju-kyung sering diejek dan diintimidasi karena dianggap tidak cantik. Untuk mengatasi kekurangannya, Ju-kyung belajar makeup secara otodidak melalui video tutorial YouTube. Dengan keterampilan makeup yang luar biasa, ia berhasil mengubah dirinya menjadi "dewi" sekolah yang diidolakan semua orang. Namun, Ju-kyung selalu merahasiakan wajah aslinya di balik makeup tebal, takut kehilangan popularitas dan cinta yang ia dapatkan.\n\n
+
+        Pada hari pertama sekolah, Ju-kyung bertemu dengan Lee Su-ho, siswa populer dan tampan yang baru saja pindah dari Amerika Serikat. Su-ho awalnya tidak peduli dengan Ju-kyung, tetapi perlahan tertarik pada kepribadiannya yang baik dan ceria di balik makeupnya. Ju-kyung juga bertemu dengan Han Seo-jun, teman masa kecilnya yang juga tampan dan pemberontak. Seo-jun mengetahui wajah asli Ju-kyung dan menjadi orang pertama yang menerima dirinya apa adanya.\n\n
+
+        Ju-kyung, Su-ho, dan Seo-jun terlibat dalam cinta segitiga yang rumit. Ju-kyung harus berjuang untuk memilih antara Su-ho yang tampan dan populer, atau Seo-jun yang tampan dan pemberontak, yang menerima dirinya apa adanya. Di tengah kisah cinta mereka, Ju-kyung juga harus menghadapi berbagai tantangan, seperti tekanan standar kecantikan yang tidak realistis, kebohongan dan identitas ganda, serta ketakutan terungkapnya identitas ganda.\n\n
+
+        Di akhir cerita, Ju-kyung memutuskan untuk mengungkapkan wajah aslinya kepada Su-ho dan Seo-jun. Su-ho dan Seo-jun menerima Ju-kyung apa adanya, dan mereka berjanji untuk selalu mencintainya. True Beauty mengajarkan kita tentang pentingnya mencintai diri sendiri dan menemukan kecantikan sejati dari dalam. Drama ini juga menunjukkan bahwa cinta sejati adalah cinta yang menerima seseorang apa adanya.\n\n
+</string>
+</resources>
